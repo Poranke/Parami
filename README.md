@@ -1,1 +1,2 @@
 # Parami
+JAN SZCZUR 
