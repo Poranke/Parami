@@ -1,2 +1,3 @@
 # Parami
-JAN SZCZUR 
+PORANEK SMIERDZI
+
